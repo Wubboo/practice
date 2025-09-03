@@ -1,0 +1,1 @@
+just a small project to check out and practice css pseudo classes, selectors, and transitions

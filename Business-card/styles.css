@@ -1,0 +1,28 @@
+body {
+  background: rosybrown;
+  font-family: Arial, sans-serif;
+}
+
+p {
+  margin: 5px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.business-card {
+  text-align: center;
+  font-size: 16px;
+  background: #d3f6d1;
+  background-image: url(https://i.etsystatic.com/8274094/r/il/1aea7a/1008147467/il_570xN.1008147467_bxi8.jpg);
+  width: 300px;
+  padding: 20px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile-image {
+  max-width: 100%;
+}
