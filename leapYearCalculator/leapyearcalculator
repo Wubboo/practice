@@ -1,0 +1,10 @@
+function isLeapYear(a) {
+  const isLeap = (a % 4 === 0 && a % 100 !== 0) || (a % 400 === 0);
+
+  // Return the exact message string (with the period). Do NOT return console.log.
+  return `${a} is ${isLeap ? '' : 'not '}a leap year.`;
+}
+
+let year = 2024;
+let result = isLeapYear(year);
+console.log(result); // "1900 is not a leap year."
